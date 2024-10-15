@@ -1,7 +1,7 @@
 
 # Title:To Check the impact of various components of atomobile on their price 
 
-# Abstract : 
+## Abstract : 
  The Aim of this project is to find out Which factors
 affect the price of Cars. Now a days, most of people wishes to 
 buy a car. The Characteristics of cars are Displacement (cc), 
@@ -20,12 +20,13 @@ is mainly depends on Displacement(cc) and Fuel tank Capacity
  From our project we can decide to predict the best car 
 with comfort zone and affordable.
  
-•Keywords : 1. Graphical Representation
+### •Keywords : 
+ 1. Graphical Representation
  2. Correlation
  3. Testing of hypothesis 
  4. Regression Analysis.
 
-#OBJECTIVES:
+## OBJECTIVES:
 1. To find Correlation between price and factor preferring 4-
 wheelers.
 2. To compute different Types of drive wheels impact on 
