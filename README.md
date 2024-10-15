@@ -1,5 +1,5 @@
 
-# Title:To Check the impact of various components of atomobile on their price 
+# To Check the impact of various components of atomobile on their price 
 
 ## Abstract : 
  The Aim of this project is to find out Which factors
