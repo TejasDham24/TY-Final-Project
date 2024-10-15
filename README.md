@@ -1,7 +1,7 @@
 
-#Title:To Check the impact of various components of atomobile on their price 
+# Title:To Check the impact of various components of atomobile on their price 
 
-#Abstract : 
+# Abstract : 
  The Aim of this project is to find out Which factors
 affect the price of Cars. Now a days, most of people wishes to 
 buy a car. The Characteristics of cars are Displacement (cc), 
